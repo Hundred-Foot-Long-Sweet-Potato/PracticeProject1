@@ -10,14 +10,12 @@ body {
 h1 {
      font-size: "40px";
      color: purple;
-     text-align: center;
      font-weight: bold;
 }
 
 h2 {
      font-size: "5px";
      color: white;
-     text-align: center;
 }
 
 .center{
