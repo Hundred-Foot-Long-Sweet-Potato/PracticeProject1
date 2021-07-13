@@ -18,13 +18,8 @@ h2 {
      text-align: center;
 }
 
-.hightlight{
-     color: hsl(277, 64%, 61%);
-}
-
-.centerBlock {
-     height: "400px";
-     width: "700px";
+.center{
+     margin: "200px","500px";
      align-self: center;
      background-color: hsl(244, 38%, 16%);
      border: 3px solid white;
