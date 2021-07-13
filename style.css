@@ -30,6 +30,10 @@ h2 {
      border: 3px solid white;
 }
 
+.center text {
+     text-align: left;
+}
+
 .attribution {
      font-size: 11px; text-align: center;
      color: white;
