@@ -15,8 +15,16 @@ h2 {
      text-align: center;
 }
 
+.shape {
+     height: 20px;
+
+}
+
 .center{
-     margin-top: "200px";
+     margin-top: 200px;
+     height: 100px;
+     width: 60%;
+     padding: 10%;
      background-color: hsl(244, 38%, 16%);
      border: 3px solid white;
      background-image: "./image-header-desktop.jpg";
