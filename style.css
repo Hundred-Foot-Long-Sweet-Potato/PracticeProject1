@@ -21,17 +21,17 @@ h2 {
 }
 
 .center{
-     margin-top: 200px;
-     height: 100px;
-     width: 60%;
-     padding: 10%;
+     margin: auto;
+     width: 50%;
+     padding: 10px;
      background-color: hsl(244, 38%, 16%);
      border: 3px solid white;
-     background-image: "./image-header-desktop.jpg";
+     background-image: url("./image-header-desktop.jpg");
 }
 
 .attribution {
      font-size: 11px; text-align: center;
+     color: white;
 }
 
 .attribution a {
