@@ -2,20 +2,32 @@ body {
      width: 100%;
      height: 100%;
      background-color: hsl(233, 47%, 7%);
+     color: red;
 }
 
 h1 {
      font-size: "30px";
      color: white;
+     text-align: center;
+     font-weight: bold;
 }
 
 h2 {
      font-size: "15px";
      color: white;
+     text-align: center;
 }
-/* .attribution {
+
+.centerBlock {
+     height: "400px";
+     width: "700px";
+     align-self: center;
+}
+
+.attribution {
      font-size: 11px; text-align: center;
 }
+
 .attribution a {
      color: hsl(228, 45%, 44%); 
-} */
+} 
