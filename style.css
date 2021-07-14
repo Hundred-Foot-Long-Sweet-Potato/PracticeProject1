@@ -13,13 +13,13 @@ body {
 }
 
 h1 {
-     font-size: "40px";
-     color: purple;
+     font-size: 40px;
+     color: white;
      font-weight: bold;
 }
 
 h2 {
-     font-size: "5px";
+     font-size: 5px;
      color: white;
 }
 .center {
@@ -29,7 +29,7 @@ h2 {
      transform: translate(-50%, -50%);
      border: 5px solid #FFFF00;
      padding: 10px;
-     border-radius: 25%;
+     border-radius: 5%;
      }
 
 .text {
@@ -41,6 +41,7 @@ h2 {
 
 .insights {
      color: hsl(277, 64%, 61%);
+     border: yellow;
 }
 
 .image {
