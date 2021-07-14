@@ -31,7 +31,8 @@ h2 {
      background-color:hsl(244, 38%, 16%);
      border-radius: 2%;
      height: 50%;
-     width: 60%;
+     width: 55%;
+     overflow: auto;
      }
 
 .text {
@@ -40,6 +41,7 @@ h2 {
      padding-left: 20px;
      padding-top:50%;
      text-align: center;
+     overflow: auto;
 } 
 
 .normalText {
@@ -50,7 +52,6 @@ h2 {
 
 .insights {
      color: hsl(277, 64%, 61%);
-     border: red;
 }
 
 .image {
