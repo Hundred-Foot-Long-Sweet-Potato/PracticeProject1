@@ -32,7 +32,7 @@ h2 {
      transform: translate(-50%, -50%);
      background-color:hsl(244, 38%, 16%);
      border-radius: 3%;
-     height: 50%;
+     height: 45%;
      width: 55%;
      }
 
@@ -76,13 +76,5 @@ h2 {
      border-radius: 3%;
      float: right;
      border:2px solid yellow;
-}
-
-.overlay {
-     position: fixed;
-     width: 50%;
-     height:100%;
-     float:right;
-     color: rgba(172, 38, 154, 0.281);
-     padding-left: 50%;
+     overflow:hidden;
 }
