@@ -22,7 +22,8 @@ h1 {
 h2 {
      font-size: 15px;
      color: rgb(160, 160, 160);
-     padding: 20px;
+     padding-top: 20px;
+     padding-bottom: 50px;
 }
 .center {
      position: absolute;
@@ -30,7 +31,7 @@ h2 {
      top: 50%;
      transform: translate(-50%, -50%);
      background-color:hsl(244, 38%, 16%);
-     border-radius: 2%;
+     border-radius: 3%;
      height: 50%;
      width: 55%;
      display: flex;
@@ -42,7 +43,6 @@ h2 {
      padding-left: 20px;
      float:left;
      padding-top:20px;
-     text-align: center;
      flex:1;
 } 
 
@@ -75,7 +75,9 @@ h2 {
 .image {
      position: relative;
      width: 50%;
+     height:100%;
      padding-right:0px;
+     border-radius: 3%;
      flex:1;
      float: right;
 }
