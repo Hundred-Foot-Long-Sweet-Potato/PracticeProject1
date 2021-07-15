@@ -40,7 +40,6 @@ h2 {
      padding:10%, 15%;
      float:left;
      width: 50%;
-     border: 2px solid blue;
 } 
 
 .normalText {
@@ -75,6 +74,5 @@ h2 {
      padding-right:0px;
      border-radius: 3%;
      float: right;
-     border:2px solid yellow;
      overflow:hidden;
 }
