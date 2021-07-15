@@ -37,7 +37,9 @@ h2 {
      }
 
 .text {
-     padding:10%, 15%;
+     padding-left: 10%;
+     padding-right: 10%;
+     padding-top: 15%;
      float:left;
      width: 50%;
 } 
