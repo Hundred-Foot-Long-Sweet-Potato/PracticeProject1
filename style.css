@@ -39,7 +39,7 @@ h2 {
      position: static;
      padding-right:50%;
      padding-left: 20px;
-     padding-top:50%;
+     padding-top:20px;
      text-align: center;
      overflow: auto;
 } 
@@ -48,14 +48,34 @@ h2 {
      font-size:35px;
      color: white;
      font-weight: bold;
+     padding: 30px;
 }
 
 .insights {
      color: hsl(277, 64%, 61%);
 }
 
+.lists {
+     display:inline;
+}
+
+.small {
+     font-size:15px;
+}
+
+.large {
+     font-size: 35px;
+}
+
 .image {
      position: relative;
      padding-left: 50%;
      padding-right:0px;
+}
+
+.overlay {
+     position: fixed;
+     overflow: auto;
+     color: rgba(172, 38, 154, 0.281);
+     padding-left: 50%;
 }
