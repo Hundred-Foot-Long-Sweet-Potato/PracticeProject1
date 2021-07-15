@@ -43,6 +43,7 @@ h2 {
      float:left;
      padding-top:20px;
      flex:1;
+     border: 2px solid blue;
 } 
 
 .normalText {
@@ -78,6 +79,7 @@ h2 {
      border-radius: 3%;
      flex:1;
      float: right;
+     border:2px solid yellow;
 }
 
 .overlay {
