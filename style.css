@@ -34,15 +34,12 @@ h2 {
      border-radius: 3%;
      height: 50%;
      width: 55%;
-     display: flex;
      }
 
 .text {
-     position: relative;
-     padding-left: 20px;
+     padding:40px , 40px;
      float:left;
-     padding-top:20px;
-     flex:1;
+     width: 50%;
      border: 2px solid blue;
 } 
 
@@ -73,11 +70,10 @@ h2 {
 }
 
 .image {
-     position: relative;
      height:100%;
+     width:50%;
      padding-right:0px;
      border-radius: 3%;
-     flex:1;
      float: right;
      border:2px solid yellow;
 }
