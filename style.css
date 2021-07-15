@@ -49,9 +49,9 @@ h2 {
 
 .normalText {
      font-size:35px;
-     color: white;
+     color: rgb(168, 168, 168);
      font-weight: bold;
-     padding: 30px;
+     padding-top: 30px;
 }
 
 .insights {
